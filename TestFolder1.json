@@ -1,0 +1,10 @@
+{
+	"TestFolder1": {
+		"Type": "Folder",
+		"Comment": "First Attempt Syncing jobs via GitHub webhooks",
+		"CommandJob": {
+			"Type": "Job:Command",
+			"Command": "echo my 1st web hook job"
+		}
+	}
+}
