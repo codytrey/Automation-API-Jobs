@@ -1,6 +1,7 @@
 {
 	"TestFolder1": {
 		"Type": "Folder",
+		"SiteStandard": "",
 		"Comment": "First Attempt Syncing jobs via GitHub webhooks",
 		"CommandJob": {
 			"Type": "Job:Command",
