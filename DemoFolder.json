@@ -1,0 +1,12 @@
+{
+	"DemoFolder": {
+		"Type": "Folder",
+		"SiteStandard": "SiteStandard1",
+		"Comment": "Syncing jobs via GitHub webhooks",
+		"CommandJob": {
+			"Type": "Job:Command",
+			"Command": "echo \"web hooks are so cool!\"",
+			"RunAs": "ctm18s"
+		}
+	}
+}
