@@ -5,7 +5,7 @@
 		"Comment": "Demo Syncing jobs via GitHub webhooks",
 		"DemoJob": {
 			"Type": "Job:Command",
-			"Command": "echo \" web hooks are cool!\"",
+			"Command": "echo \" web hooks so are cool!\"",
 			"RunAs": "ctm18s"
 		}
 	}
