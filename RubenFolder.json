@@ -1,0 +1,12 @@
+{
+	"RubenFolder1": {
+		"Type": "SimpleFolder",
+		"SiteStandard": "SiteStandard1",
+		"Comment": "First Attempt Syncing jobs via GitHub webhooks",
+		"NewJob": {
+			"Type": "Job:Command",
+			"Command": "echo \"my 1st web hook job\"",
+			"RunAs": "ctm18s"
+		}
+	}
+}
