@@ -5,7 +5,7 @@
 		"Comment": "First Attempt Syncing jobs via GitHub webhooks",
 		"NewJob": {
 			"Type": "Job:Command",
-			"Command": "echo \"my 1st web hook job\"",
+			"Command": "sleep 30",
 			"RunAs": "ctm18s"
 		}
 	}
